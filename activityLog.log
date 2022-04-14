@@ -1,0 +1,24 @@
+14 Apr 2022 14:35:23,019 main - suiteXmlPath: "/home/adi/.cache/JetBrains/IntelliJIdea2021.3/temp-testng-customsuite.xml"
+14 Apr 2022 14:35:23,387 main - [Graph] ADDING NODE calcTest.powerTest()[pri:0, instance:calcTest@7817fd62] -1683505293
+14 Apr 2022 14:35:23,388 main - [Graph] ADDING NODE calcTest.logTest()[pri:0, instance:calcTest@7817fd62] -1009642030
+14 Apr 2022 14:35:23,388 main - [Graph] ADDING NODE calcTest.factorialTest()[pri:0, instance:calcTest@7817fd62] -2105227565
+14 Apr 2022 14:35:23,388 main - [Graph] ADDING NODE calcTest.squareRootTest()[pri:0, instance:calcTest@7817fd62] -677002355
+14 Apr 2022 14:35:23,388 main - [Graph] ================ SORTING
+14 Apr 2022 14:35:23,390 main - [Graph] =============== DONE SORTING
+14 Apr 2022 14:35:23,390 main - [Graph] ====== SORTED NODES
+14 Apr 2022 14:35:23,390 main - [Graph] ====== END SORTED NODES
+14 Apr 2022 14:35:23,393 main - [TestNG] Running:
+  /home/adi/.cache/JetBrains/IntelliJIdea2021.3/temp-testng-customsuite.xml
+
+14 Apr 2022 14:38:16,402 main - suiteXmlPath: "/home/adi/.cache/JetBrains/IntelliJIdea2021.3/temp-testng-customsuite.xml"
+14 Apr 2022 14:38:16,741 main - [Graph] ADDING NODE calcTest.powerTest()[pri:0, instance:calcTest@7817fd62] -1683505293
+14 Apr 2022 14:38:16,741 main - [Graph] ADDING NODE calcTest.logTest()[pri:0, instance:calcTest@7817fd62] -1009642030
+14 Apr 2022 14:38:16,741 main - [Graph] ADDING NODE calcTest.factorialTest()[pri:0, instance:calcTest@7817fd62] -2105227565
+14 Apr 2022 14:38:16,741 main - [Graph] ADDING NODE calcTest.squareRootTest()[pri:0, instance:calcTest@7817fd62] -677002355
+14 Apr 2022 14:38:16,741 main - [Graph] ================ SORTING
+14 Apr 2022 14:38:16,744 main - [Graph] =============== DONE SORTING
+14 Apr 2022 14:38:16,744 main - [Graph] ====== SORTED NODES
+14 Apr 2022 14:38:16,744 main - [Graph] ====== END SORTED NODES
+14 Apr 2022 14:38:16,748 main - [TestNG] Running:
+  /home/adi/.cache/JetBrains/IntelliJIdea2021.3/temp-testng-customsuite.xml
+
