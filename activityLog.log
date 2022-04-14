@@ -30,3 +30,35 @@
 14 Apr 2022 15:16:58,145 main - [Graph] =============== DONE SORTING
 14 Apr 2022 15:16:58,145 main - [Graph] ====== SORTED NODES
 14 Apr 2022 15:16:58,145 main - [Graph] ====== END SORTED NODES
+14 Apr 2022 15:47:12,847 main - [Graph] ADDING NODE calcTest.powerTest()[pri:0, instance:calcTest@492691d7] 1823888360
+14 Apr 2022 15:47:12,847 main - [Graph] ADDING NODE calcTest.logTest()[pri:0, instance:calcTest@492691d7] -1797215673
+14 Apr 2022 15:47:12,847 main - [Graph] ADDING NODE calcTest.factorialTest()[pri:0, instance:calcTest@492691d7] 1402166088
+14 Apr 2022 15:47:12,847 main - [Graph] ADDING NODE calcTest.squareRootTest()[pri:0, instance:calcTest@492691d7] -1464575998
+14 Apr 2022 15:47:12,847 main - [Graph] ================ SORTING
+14 Apr 2022 15:47:12,850 main - [Graph] =============== DONE SORTING
+14 Apr 2022 15:47:12,850 main - [Graph] ====== SORTED NODES
+14 Apr 2022 15:47:12,850 main - [Graph] ====== END SORTED NODES
+14 Apr 2022 15:49:55,425 main - [Graph] ADDING NODE calcTest.powerTest()[pri:0, instance:calcTest@492691d7] 1823888360
+14 Apr 2022 15:49:55,425 main - [Graph] ADDING NODE calcTest.logTest()[pri:0, instance:calcTest@492691d7] -1797215673
+14 Apr 2022 15:49:55,425 main - [Graph] ADDING NODE calcTest.factorialTest()[pri:0, instance:calcTest@492691d7] 1402166088
+14 Apr 2022 15:49:55,425 main - [Graph] ADDING NODE calcTest.squareRootTest()[pri:0, instance:calcTest@492691d7] -1464575998
+14 Apr 2022 15:49:55,425 main - [Graph] ================ SORTING
+14 Apr 2022 15:49:55,428 main - [Graph] =============== DONE SORTING
+14 Apr 2022 15:49:55,428 main - [Graph] ====== SORTED NODES
+14 Apr 2022 15:49:55,428 main - [Graph] ====== END SORTED NODES
+14 Apr 2022 15:52:37,230 main - [Graph] ADDING NODE calcTest.powerTest()[pri:0, instance:calcTest@492691d7] 1823888360
+14 Apr 2022 15:52:37,230 main - [Graph] ADDING NODE calcTest.logTest()[pri:0, instance:calcTest@492691d7] -1797215673
+14 Apr 2022 15:52:37,231 main - [Graph] ADDING NODE calcTest.factorialTest()[pri:0, instance:calcTest@492691d7] 1402166088
+14 Apr 2022 15:52:37,231 main - [Graph] ADDING NODE calcTest.squareRootTest()[pri:0, instance:calcTest@492691d7] -1464575998
+14 Apr 2022 15:52:37,231 main - [Graph] ================ SORTING
+14 Apr 2022 15:52:37,233 main - [Graph] =============== DONE SORTING
+14 Apr 2022 15:52:37,233 main - [Graph] ====== SORTED NODES
+14 Apr 2022 15:52:37,233 main - [Graph] ====== END SORTED NODES
+14 Apr 2022 15:53:40,437 main - [Graph] ADDING NODE calcTest.powerTest()[pri:0, instance:calcTest@492691d7] 1823888360
+14 Apr 2022 15:53:40,438 main - [Graph] ADDING NODE calcTest.logTest()[pri:0, instance:calcTest@492691d7] -1797215673
+14 Apr 2022 15:53:40,438 main - [Graph] ADDING NODE calcTest.factorialTest()[pri:0, instance:calcTest@492691d7] 1402166088
+14 Apr 2022 15:53:40,438 main - [Graph] ADDING NODE calcTest.squareRootTest()[pri:0, instance:calcTest@492691d7] -1464575998
+14 Apr 2022 15:53:40,438 main - [Graph] ================ SORTING
+14 Apr 2022 15:53:40,441 main - [Graph] =============== DONE SORTING
+14 Apr 2022 15:53:40,441 main - [Graph] ====== SORTED NODES
+14 Apr 2022 15:53:40,441 main - [Graph] ====== END SORTED NODES

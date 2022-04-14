@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="calcTest" time="0.02" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="calcTest" time="0.022" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.14.1+1-Ubuntu-0ubuntu1.20.04"/>
@@ -61,8 +61,8 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="calcTest" name="factorialTest" time="0.012"/>
-  <testcase classname="calcTest" name="logTest" time="0.002"/>
-  <testcase classname="calcTest" name="powerTest" time="0.003"/>
+  <testcase classname="calcTest" name="factorialTest" time="0.014"/>
+  <testcase classname="calcTest" name="logTest" time="0.003"/>
+  <testcase classname="calcTest" name="powerTest" time="0.002"/>
   <testcase classname="calcTest" name="squareRootTest" time="0.003"/>
 </testsuite>

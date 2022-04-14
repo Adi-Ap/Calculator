@@ -1,0 +1,5 @@
+14/Apr/2022:15:48:29 804 [calc.java] [INFO] calc.calc Factorial is : 24.0
+14/Apr/2022:15:48:39 282 [calc.java] [INFO] calc.calc Calculating Square root  of number 9.0
+14/Apr/2022:15:48:39 282 [calc.java] [INFO] calc.calc Square Root is : 3.0
+14/Apr/2022:15:48:46 070 [calc.java] [INFO] calc.calc Calculating Natural log of 3.0
+14/Apr/2022:15:48:46 071 [calc.java] [INFO] calc.calc Result of naturalLog is : 1.0986122886681098
