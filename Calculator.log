@@ -27,3 +27,32 @@
 14/Apr/2022:14:38:16 789 [calc.java] [INFO] calc.calc Square Root is : 4.58257569495584
 14/Apr/2022:14:38:16 789 [calc.java] [INFO] calc.calc Calculating Square root  of number 16.0
 14/Apr/2022:14:38:16 790 [calc.java] [INFO] calc.calc Square Root is : 4.0
+14/Apr/2022:15:16:58 169 [calc.java] [INFO] calc.calc Factorial is : 120.0
+14/Apr/2022:15:16:58 175 [calc.java] [ERROR] calc.calc Number cannot be less than 0. Invalid Input, Enter Number greater than 0
+14/Apr/2022:15:16:58 176 [calc.java] [INFO] calc.calc Factorial is : NaN
+14/Apr/2022:15:16:58 176 [calc.java] [INFO] calc.calc Factorial is : 6.0
+14/Apr/2022:15:16:58 176 [calc.java] [INFO] calc.calc Factorial is : 120.0
+14/Apr/2022:15:16:58 178 [calc.java] [INFO] calc.calc Calculating Natural log of 4.0
+14/Apr/2022:15:16:58 179 [calc.java] [INFO] calc.calc Result of naturalLog is : 1.3862943611198906
+14/Apr/2022:15:16:58 179 [calc.java] [INFO] calc.calc Calculating Natural log of 0.0
+14/Apr/2022:15:16:58 179 [calc.java] [ERROR] calc.calc Number cannot be less than 0. Invalid Input, Enter Number greater than 0
+14/Apr/2022:15:16:58 180 [calc.java] [INFO] calc.calc Result of naturalLog is : NaN
+14/Apr/2022:15:16:58 180 [calc.java] [INFO] calc.calc Calculating Natural log of 14.0
+14/Apr/2022:15:16:58 180 [calc.java] [INFO] calc.calc Result of naturalLog is : 2.6390573296152584
+14/Apr/2022:15:16:58 180 [calc.java] [INFO] calc.calc Calculating Natural log of 9.0
+14/Apr/2022:15:16:58 181 [calc.java] [INFO] calc.calc Result of naturalLog is : 2.1972245773362196
+14/Apr/2022:15:16:58 181 [calc.java] [INFO] calc.calc Calculating Power  of two numbers 2.0 and 2.0
+14/Apr/2022:15:16:58 182 [calc.java] [INFO] calc.calc Result of power is : 4.0
+14/Apr/2022:15:16:58 182 [calc.java] [INFO] calc.calc Calculating Power  of two numbers 3.0 and 3.0
+14/Apr/2022:15:16:58 182 [calc.java] [INFO] calc.calc Result of power is : 27.0
+14/Apr/2022:15:16:58 183 [calc.java] [INFO] calc.calc Calculating Power  of two numbers 3.0 and 3.0
+14/Apr/2022:15:16:58 183 [calc.java] [INFO] calc.calc Result of power is : 27.0
+14/Apr/2022:15:16:58 184 [calc.java] [INFO] calc.calc Calculating Square root  of number 100.0
+14/Apr/2022:15:16:58 185 [calc.java] [INFO] calc.calc Square Root is : 10.0
+14/Apr/2022:15:16:58 185 [calc.java] [INFO] calc.calc Calculating Square root  of number -10.0
+14/Apr/2022:15:16:58 185 [calc.java] [ERROR] calc.calc Number cannot be smaller than 0. Invalid Input, Enter Number greater than 0
+14/Apr/2022:15:16:58 185 [calc.java] [INFO] calc.calc Square Root is : NaN
+14/Apr/2022:15:16:58 186 [calc.java] [INFO] calc.calc Calculating Square root  of number 21.0
+14/Apr/2022:15:16:58 186 [calc.java] [INFO] calc.calc Square Root is : 4.58257569495584
+14/Apr/2022:15:16:58 186 [calc.java] [INFO] calc.calc Calculating Square root  of number 16.0
+14/Apr/2022:15:16:58 186 [calc.java] [INFO] calc.calc Square Root is : 4.0
