@@ -21,9 +21,7 @@ public class calcTest {
         assertNotEquals("Factorial of number for False positive", 8.0,cal.fact(3), DELTA);
         assertNotEquals("Factorial of number for False positive", 60.0,cal.fact(5), DELTA);
     }
-
-
-
+    
     @Test
     public void logTest(){
         assertEquals("Factorial of number for True positive", 1.3862943611198906,cal.naturalLog(4), DELTA);
